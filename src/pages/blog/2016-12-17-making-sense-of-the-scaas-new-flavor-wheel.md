@@ -1,19 +1,20 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Artwork name
 date: 2016-12-17T15:04:10.000Z
+description: This artwork was site-specific and took place in the Autumn of 2019
+  in Manhattan's Blue sky gallery.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/ehtmsvmxyauztnf.jpeg
 tags:
-  - flavor
-  - tasting
+  - Site specific
+  - NYC
+  - Installation
+  - Sculpture
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/ehtmsvmxyauztnf.jpeg "The work in question")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
-
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+This is a description entailing some of the processes undertook to create this artwork. body of work displayed took different routes and paths to achieve whats shown in the main image.
 
 ## What the updates mean to you
 
