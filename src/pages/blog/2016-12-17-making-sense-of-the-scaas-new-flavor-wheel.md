@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: Artwork name
+title: Le puedes cambiar el nombre
 date: 2016-12-17T15:04:10.000Z
 description: This artwork was site-specific and took place in the Autumn of 2019
   in Manhattan's Blue sky gallery.
 featuredpost: false
-featuredimage: /img/ehtmsvmxyauztnf.jpeg
+featuredimage: /img/flavor_wheel.jpg
 tags:
   - Site specific
   - NYC
